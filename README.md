@@ -14,7 +14,6 @@ This guide is prepared with the Waveshare display shield design in mind, which p
 - **1 x Passive Buzzer** (Two-pin, PWM compatible)
 - **2 x Tactile Push Buttons** (For menu control)
 - **1 x Breadboard** and jumper wires
-- **1 x 5V 1A USB Power Adapter** and Micro-USB cable
 - **2 x 10k Ohm Resistors**
 
 ## 2\. Hardware Assembly and Pin Wiring Diagram
