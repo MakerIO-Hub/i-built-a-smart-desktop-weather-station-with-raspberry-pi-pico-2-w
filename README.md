@@ -1,6 +1,6 @@
 # I Built a Smart Desktop Weather Station with Raspberry Pi Pico 2 W! 
 
-# SmartStation Pi Setup Guide
+SmartStation Pi Setup Guide
 
 This guide is prepared with the Waveshare display shield design in mind, which plugs directly onto the Raspberry Pi Pico. Since the MicroSD card slot on the display module uses the **GP22** pin, the DHT11 sensor has been assigned to the **GP26** pin to prevent any potential pin conflicts.
 
