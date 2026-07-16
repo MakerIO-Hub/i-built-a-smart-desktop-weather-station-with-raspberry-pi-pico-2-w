@@ -4,6 +4,8 @@ SmartStation Pi Setup Guide
 
 This guide is prepared with the Waveshare display shield design in mind, which plugs directly onto the Raspberry Pi Pico. Since the MicroSD card slot on the display module uses the **GP22** pin, the DHT11 sensor has been assigned to the **GP26** pin to prevent any potential pin conflicts.
 
+📺 Watch the Full Project Video on YouTube: https://youtu.be/22LryK9dLRs
+
 ## 1\. Required Hardware Components
 
 - **1 x Raspberry Pi Pico W** (Wireless-enabled version)
